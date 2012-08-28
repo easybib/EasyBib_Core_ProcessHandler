@@ -1,0 +1,10 @@
+{
+	"name": "easybib-core/processhandler",
+    "description": "Process handling code!",
+    "type": "application",
+    "autoload": {
+        "psr-0": {
+            "EasyBib\\Core\\ProcessHandler": "library"
+        }
+    }
+}
