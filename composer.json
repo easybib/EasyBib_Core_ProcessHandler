@@ -1,5 +1,6 @@
 {
     "name": "easybib-core/processhandler",
+    "license": "Apache-2.0",
     "description": "Process handling code!",
     "type": "application",
     "autoload": {
